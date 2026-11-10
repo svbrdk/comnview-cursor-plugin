@@ -1,7 +1,11 @@
 {
   "mcpServers": {
     "comnview": {
-      "url": "https://comnview.com/mcp"
+      "url": "https://comnview.com/mcp",
+      "auth": {
+        "CLIENT_ID": "https://comnview.com/oauth/cursor-client.json",
+        "scopes": ["comnview", "offline_access"]
+      }
     }
   }
 }
