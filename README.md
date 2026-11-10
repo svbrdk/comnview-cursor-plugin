@@ -12,6 +12,6 @@ Cursor asks before it posts, uploads, deletes or sends anything. Comment texts c
 
 ## Setup
 
-Install the plugin and connect Comnview when Cursor asks. You sign in on comnview.com and choose what the connection may do: read only, read and reply, or full access. Disconnect any time in Profile > Agents on comnview.com.
+Install the plugin, then open Cursor Settings > MCP and press Connect on Comnview. You sign in on comnview.com and choose what the connection may do: read only, read and reply, or full access. Disconnect any time in Profile > Agents on comnview.com.
 
 Requires a Comnview account with AI agent access. Help: https://comnview.com/agents
