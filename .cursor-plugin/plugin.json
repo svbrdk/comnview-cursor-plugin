@@ -1,0 +1,21 @@
+{
+  "name": "comnview",
+  "displayName": "Comnview",
+  "version": "1.0.0",
+  "description": "Work through client feedback on websites, images and PDFs from Cursor: read pinned comments, fix the source, upload a new version, reply and resolve.",
+  "author": {
+    "name": "Comnview"
+  },
+  "homepage": "https://comnview.com/agents",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "client feedback",
+    "design review",
+    "website review",
+    "pdf review",
+    "comments",
+    "mcp"
+  ],
+  "repository": "https://github.com/svbrdk/comnview-cursor-plugin"
+}
