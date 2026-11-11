@@ -30,3 +30,4 @@ The user's own instructions always come first, including a different number of i
 - Base every issue on what you saw in `view_page`. Don't invent elements, numbers or measurements.
 - Capturing a page creates a project in the user's account. Say so in the summary.
 - Don't compare the design with named competitors unless the user asks.
+- Signing in is the user's own step. If a Comnview call says it isn't connected, the sign-in expired or the access is too low, tell the user how to connect it in this app's settings and stop. Never sign in to comnview.com yourself, ask for or open sign-in emails, look in the user's mailbox for Comnview links, or create, copy or paste tokens.

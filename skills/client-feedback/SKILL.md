@@ -42,3 +42,4 @@ With the project files open in Cursor:
 - Quote or summarize what comments say. Never invent their content, authors or pages.
 - Only the account's own comments can be edited or deleted (`edit_my_comment`, `delete_my_comment`). Client comments can be answered or resolved, not deleted.
 - Replies notify the client by email. Don't post anything the user hasn't seen unless they told you to go ahead.
+- Signing in is the user's own step. If a Comnview call says it isn't connected, the sign-in expired or the access is too low, tell the user how to connect it in this app's settings and stop. Never sign in to comnview.com yourself, ask for or open sign-in emails, look in the user's mailbox for Comnview links, or create, copy or paste tokens.
